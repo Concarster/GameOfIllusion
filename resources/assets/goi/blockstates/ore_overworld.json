@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=aluminium": { "model": "goi:ore_overworld_aluminium" },
+        "variant=copper": { "model": "goi:ore_overworld_copper" }
+    }
+}
