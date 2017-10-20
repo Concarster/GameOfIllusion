@@ -1,0 +1,52 @@
+itemGroup.goiTab=GoI
+itemGroup.goiTabBlock=GoI Blocks
+itemGroup.goiTabDecoration=GoI Decoration
+itemGroup.goiTabSpirit=GoI Spirit
+itemGroup.goiTabTools=GoI Tools
+itemGroup.goiTabArmor=GoI Armor
+itemGroup.goiTabWeapons=GoI Weapons
+itemGroup.goiTabGodsDemons=GoI Gods & Demons
+itemGroup.goiTabGoodsEvils=GoI Goods & Evils
+itemGroup.goiTabCombat=GoI Combat
+
+item.stick_iron.name=Iron Stick
+item.ingot_copper.name=Copper Ingot
+
+tile.block_copper.name=Copper Block
+
+tile.ore_overworld_aluminium.name=Aluminium Ore
+tile.ore_overworld_copper.name=Copper Ore
+
+tile.ore_end_aluminium.name=Ender Aluminium Ore
+tile.ore_end_copper.name=Ender Copper Ore
+
+tile.ore_nether_aluminium.name=Fiery Aluminium Ore
+tile.ore_nether_copper.name=Fiery Copper Ore
+
+tile.ore_end_aluminium.name=Ender Aluminium Ore
+tile.ore_end_copper.name=Ender Copper Ore
+
+
+
+tile.amber.name=Amber
+tile.block_ore_amber.name=Amber Ore
+tile.block_amber.name=Amber Block
+
+item.ingot_amber.name=Amber Ingot
+item.nugget_amber.name=Amber Nugget
+item.gem_amber.name=Amber Gem
+item.dust_amber.name=Amber Dust
+
+item.soul_amber.name=Soul Of Amber
+item.seed_evil_magma.name=Evil Magma Seed
+
+item.boots_amber.name=Amber Bootssword_amber
+item.chestplate_amber.name=Amber Chestplate
+item.helmet_amber.name=Amber Helmet
+item.leggings_amber.name=Amber Leggings
+
+item.sword_amber.name=Amber Sword
+item.hoe_amber.name=Amber Hoe
+item.axe_amber.name=Amber Axe
+item.pickaxe_amber.name=Amber Pickaxe
+item.shovel_amber.name=Amber Shovel

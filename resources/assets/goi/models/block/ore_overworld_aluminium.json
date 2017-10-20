@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "goi:blocks/ore_overworld_aluminium"
+    }
+}﻿
